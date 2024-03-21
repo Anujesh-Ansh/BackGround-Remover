@@ -14,10 +14,7 @@ Welcome to the Background Remover tool! 🎉 This Python script lets you transfo
 Before diving in, make sure you have the following installed:
 
 ```bash
-pip install streamlit
-pip install rembg
-pip install easygui
-pip install pillow
+pip install -r requirements.txt
 ```
 
 ## Usage
