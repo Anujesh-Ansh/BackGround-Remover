@@ -32,10 +32,11 @@ pip install pillow
 Ready to see the magic in action? 🎩✨ Download the example images from the Git repository and place the input image in the designated folder. Run the script, and witness the background vanish like magic! Your edited masterpiece will be saved in the same folder for easy comparison.
 
 ### Input Image -> 
-![bgImage](https://github.com/Anujesh-Ansh/BackGround-Remover/assets/110138469/9ac8ea59-c742-41c2-a3d5-7911c764432e)
+![bgImage](https://github.com/Anujesh-Ansh/BackGround-Remover/assets/110138469/55ca5b42-1317-41ef-a896-524d0dbba920)
+
 
 ### Output Image -> 
-![hello](https://github.com/Anujesh-Ansh/BackGround-Remover/assets/110138469/6cff5bd6-fcab-42f6-8e39-cdd8ca9da371)
+
  
 
 ## How to Run
