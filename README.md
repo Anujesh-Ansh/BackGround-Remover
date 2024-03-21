@@ -36,6 +36,7 @@ Ready to see the magic in action? 🎩✨ Download the example images from the G
 
 
 ### Output Image -> 
+![0b942435b87f919c39dabd843d3e4302a30914140725531e12e954ba](https://github.com/Anujesh-Ansh/BackGround-Remover/assets/110138469/ec758654-2fc1-41bc-b822-c36bd67f6992)
 
  
 
